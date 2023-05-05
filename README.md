@@ -8,7 +8,21 @@
 - Currently: computer engineering student Suan Sunandha Rajabhat University
 
 ## 💻I’m currently learning
--
+- ปัจจุบัน : ทำงานกับ TKS Softvision ตำแหน่ง it support [ freelance ]✨
+- ทำโปรเจคเกี่ยวกับโมบาย
+
+   __Check out my GitHub repository:__
+   
+   <div>
+  <p>
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/laxmena/CloudOrg-Simulator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 <!--
 **PATCHARAPHONG-2000/PATCHARAPHONG-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
