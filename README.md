@@ -8,8 +8,9 @@
 - Currently: computer engineering student Suan Sunandha Rajabhat University
 
 ## 💻 I’m currently working on
+
 - ปัจจุบัน : ทำงานกับ TKS Softvision ตำแหน่ง it support [ freelance ]✨
-- ทำโปรเจคเกี่ยวกับโมบาย
+- ทำโปรเจกต์เกี่ยวกับ mobile application
   
  
 
