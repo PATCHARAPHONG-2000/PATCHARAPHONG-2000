@@ -1,12 +1,16 @@
-### Hey! 👋
+![Profile](https://user-images.githubusercontent.com/87099790/236485235-4079c3b8-4362-43e6-b710-9b1c064a7957.png)
+
+# Hey! 👋
+
 
 
 🌱I'm Patcharaphong Padongyang!
-<a href="https://drive.google.com/file/d/1iqfAR_pqpQ5ZWl_Fj914GvFGLlGsluSX/view?usp=share_link">link</a>
+
 - Currently: MS CS Student at University of Illinois at Chicago.
 - Previously: Full Stack Software Engineer at Zoho Corporation.
 
-### I’m currently learning
+## I’m currently learning
+-
 
 <!--
 **PATCHARAPHONG-2000/PATCHARAPHONG-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
