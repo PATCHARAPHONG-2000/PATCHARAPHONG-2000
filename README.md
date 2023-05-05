@@ -2,14 +2,12 @@
 
 # Hey! 👋
 
-
-
 🌱I'm Patcharaphong Padongyang!
+ 
+- ปัจจุบัน : เป็นนักศึกษาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยราชภัฏสวนสุนันทา
+- Currently: computer engineering student Suan Sunandha Rajabhat University
 
-- Currently: MS CS Student at University of Illinois at Chicago.
-- Previously: Full Stack Software Engineer at Zoho Corporation.
-
-## I’m currently learning
+## 💻I’m currently learning
 -
 
 <!--
