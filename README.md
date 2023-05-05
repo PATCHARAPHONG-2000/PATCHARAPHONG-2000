@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hey! 👋
 
-🌱 I’m currently learning Suan Sunandha Rajabhat University
+
+🌱I'm Patcharaphong Padongyang!
+
+- Currently: MS CS Student at University of Illinois at Chicago.
+- Previously: Full Stack Software Engineer at Zoho Corporation.
+
+### I’m currently learning
 
 <!--
 **PATCHARAPHONG-2000/PATCHARAPHONG-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
