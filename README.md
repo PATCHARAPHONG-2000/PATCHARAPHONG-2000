@@ -1,27 +1,34 @@
-# dental_news
+![Profile](https://user-images.githubusercontent.com/87099790/236485235-4079c3b8-4362-43e6-b710-9b1c064a7957.png)
 
-A new Flutter project.
+# Hey! 👋
 
-## Getting Started
+🌱I'm Patcharaphong Padongyang!
+ 
+    - ปัจจุบัน : เป็นนักศึกษาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยราชภัฏสวนสุนันทา
+    - Currently: computer engineering student Suan Sunandha Rajabhat University
 
-Just a simple app. to have a release version message me
-<p></p>
-t.me/hasanm08
-<p></p>
-<p></p>
+## 💻 I’m currently working on
 
-<p align="center">
-  <img  src="Screen1.png">
-</p>
-<p align="center">
-  <img  src="Screen2.png">
-</p>
-<p align="center">
-  <img  src="Screen3.png">
-</p>
-<p align="center">
-  <img  src="Screen4.png">
-</p>
-<p align="center">
-  <img  src="Screen5.png">
-</p>
+    - ปัจจุบัน : ทำงานกับ TKS Softvision ตำแหน่ง it support [ freelance ]✨
+    - ทำโปรเจกต์เกี่ยวกับ mobile application
+  
+### เกี่ยวกับ Laxmena⚡:
+
+    - เป็นนักศึกษาระดับบัณฑิตศึกษา อาศัยอยู่กรุงเทพมหานคร เขตบางพลัด 
+    - งานอนิเลก ค้นหาความรู้ใหม่ ฝึกฝนความรู้เก่า เพลิดเพลินกับเสียงเพลง และสำรวจธรรมชาติกลางแจ้ง 
+    
+
+<!--
+**PATCHARAPHONG-2000/PATCHARAPHONG-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
