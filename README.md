@@ -1,6 +1,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/87099790/236485235-4079c3b8-4362-43e6-b710-9b1c064a7957.png" alt="Profile picture">
   <h1>Hey! 👋</h1>
+  <p align="left"><img src ="https://komarev.com/ghpvc/?username=patcharaphong-2000&label=Profile%20views&color=0e75b6&style=flat" alt="patcharaphong-2000" /></p>
   <p>
    <h2>🌱I'm Patcharaphong Padongyang!<br></h2>
  <ul>
@@ -11,7 +12,7 @@
        Currently: computer engineering student Suan Sunandha Rajabhat University
      </li>
     </ul>
-  </p>
+  <//p>
   <h3>💻 I’m currently working on</h3>
   <ul>
     <li>
@@ -24,7 +25,7 @@
   <h3 align="left">เชื่อมต่อกับฉัน:</h3>
 <p align="left">
 <a href="https://fb.com/phatcharaphong2000" target="blank"><img align=" กลาง" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phatcharaphong2000" height="30" width ="40" /></a>
-<a href="https://instagram.com/xxvii__iii__mm" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxvii__iii__mm" height="30" width="40" /></a>
+<a href="https://www.instagram.com/xxvii__iii__mm/" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxvii__iii__mm" height="30" width="40" /></a>
 </p>
   
 <h4 align="left">ภาษาและเครื่องมือ:</h4>
@@ -63,8 +64,10 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop -line.svg " alt="kotlin" width="40" height="40"/>
-   </p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop -line.svg " alt="kotlin" width="40" height="40"/></a>
+  </p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patcharaphong-2000&" alt="patcharaphong-2000" /></p>
                                                                                                                             
 <h5>เกี่ยวกับ Patcharaphong⚡:</h5>
   <ul>
