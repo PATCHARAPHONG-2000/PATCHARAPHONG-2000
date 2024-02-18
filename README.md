@@ -25,7 +25,7 @@
   <h3 align="left">เชื่อมต่อกับฉัน:</h3>
 <p align="left">
 <a href="https://fb.com/phatcharaphong2000" target="blank"><img align=" กลาง" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phatcharaphong2000" height="30" width ="40" /></a>
-<a href="https://www.instagram.com/xxvii__iii__mm/" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxvii__iii__mm" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_xxvii_iii_mm/?igsh=NzV3bXBzb2NpaDlt" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxvii__iii__mm" height="30" width="40" /></a>
 </p>
   
 <h4 align="left">ภาษาและเครื่องมือ:</h4>
